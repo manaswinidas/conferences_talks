@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Monitoring using Grafana 
+>> *Presented at Summit@Sites organized by Red Hat on May 21, 2020*
+
+The talk covers importance of monitoring, introduction to time series databases, introduction to Grafana, exploring metrics, logs, adding annotations to dashboard and adding alerts using Grafana.
+
 #### Advancing in open source  
 >> *Presented at Open Source Saturday night organized by Pyladies Bangalore on Apr 25, 2020*
 
