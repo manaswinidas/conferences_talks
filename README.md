@@ -2,6 +2,13 @@
 
 ## Presentations added 
 
+#### Staying positive while WFH 
+>> *Presented in a lightning talk series organized by Red Hat on June 16, 2020*
+
+The talk covers importance of staying positive, maintaining proper diet and exercise, structuring work hours and habits that helped me in staying positive during lockdown.
+
+Find related article [here](https://medium.com/@manaswinidasmannu/staying-positive-while-wfh-4286767c7abd).
+
 #### Monitoring using Grafana 
 >> *Presented at Summit@Sites organized by Red Hat on May 21, 2020*
 
