@@ -12,7 +12,7 @@ Find related article [here](https://medium.com/@manaswinidasmannu/staying-positi
 #### Monitoring using Grafana 
 >> *Presented at Summit@Sites organized by Red Hat on May 21, 2020*
 
-The talk covers importance of monitoring, introduction to time series databases, introduction to Grafana, exploring metrics, logs, adding annotations to dashboard and adding alerts using Grafana.
+The talk covers importance of monitoring, introduction to time series databases, introduction to Grafana, exploring metrics, logs, adding annotations to dashboard and adding alerts using Grafana. Access the demo [here](https://vimeo.com/user117900161/review/429989255/32eba7ef1f).
 
 #### Advancing in open source  
 >> *Presented at Open Source Saturday night organized by Pyladies Bangalore on Apr 25, 2020*
