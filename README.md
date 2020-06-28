@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Advancing in open source  
+>> *Presented at Git Commit Show organized by Invide Developer Community on June 28, 2020*
+
+The talk covers need for dependency management, git submodules, git subtrees, their applications, caveats and alternatives.
+
 #### Staying positive while WFH 
 >> *Presented in a lightning talk series organized by Red Hat on June 16, 2020*
 
