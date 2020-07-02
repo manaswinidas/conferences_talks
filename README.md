@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Basics of git 
+>> *Presented at a local learning session organized by Invide Developer Community on July 2, 2020*
+
+The talk covers git, common commands using git, managing branches, forks, pulling, merging branches, cherry-picking commits, and solving merge conflicts with appropriate demos.
+
 #### Advancing in open source  
 >> *Presented at Git Commit Show organized by Invide Developer Community on June 28, 2020*
 
