@@ -7,7 +7,7 @@
 
 The talk covers git, common commands using git, managing branches, forks, pulling, merging branches, cherry-picking commits, and solving merge conflicts with appropriate demos.
 
-#### Advancing in open source  
+#### Dependency management using git  
 >> *Presented at Git Commit Show organized by Invide Developer Community on June 28, 2020*
 
 The talk covers need for dependency management, git submodules, git subtrees, their applications, caveats and alternatives.
