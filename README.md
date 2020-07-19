@@ -10,7 +10,7 @@ The talk covers git, common commands using git, managing branches, forks, pullin
 #### Dependency management using git  
 >> *Presented at Git Commit Show organized by Invide Developer Community on June 28, 2020*
 
-The talk covers need for dependency management, git submodules, git subtrees, their applications, caveats and alternatives.
+The talk covers need for dependency management, git submodules, git subtrees, their applications, caveats and alternatives.Find it on [YouTube](https://www.youtube.com/watch?v=_dDeI3Q_h_c).
 
 #### Staying positive while WFH 
 >> *Presented in a lightning talk series organized by Red Hat on June 16, 2020*
