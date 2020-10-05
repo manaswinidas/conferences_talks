@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Open Source Contributions and Opportunities  
+>> *Presented at Pyladies Experience Session during PyCon India 2020 on Oct 3, 2020*
+
+The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional.
+
 #### Basics of git 
 >> *Presented at a local learning session organized by Invide Developer Community on July 2, 2020*
 
