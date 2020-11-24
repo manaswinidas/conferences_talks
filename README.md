@@ -5,7 +5,7 @@
 #### Open Source Opportunities  
 >> *Presented at a local meetup organized by Pyladies Hyderabad on Oct 31, 2020*
 
-The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional and how you can get started. Find slides [here](slides/Open-source-opportunities.pdf).
+The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional and how you can get started. Find slides [here](slides/Open-source-opportunities.pdf). Listen to the talk on YouTube [here](http://www.youtube.com/watch?v=sTtGJRHtLDM&t=48m3s).
 
 #### Open Source Contributions and Opportunities  
 >> *Presented at Pyladies Experience Session during PyCon India 2020 on Oct 3, 2020*
