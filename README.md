@@ -5,7 +5,7 @@
 #### Careers in Python and Women Developer Ecosystem  
 >> *Presented at Times Techies webinar organized by Times of India on Dec 9, 2020*
 
-The talk was delivered with @niharikakrishnan and @sukanyamandal and covers trends and stats in Python, careers, community and opportunities for women in Python. Find the video on [Facebook](https://www.facebook.com/TimesTechies/videos/204638157936414).
+The talk was delivered with [Niharika Krishnan](https://github.com/niharikakrishnan) and [Sukanya Mandal](https://github.com/sukanyamandal) and covers trends and stats in Python, careers, community and opportunities for women in Python. Find the video on [Facebook](https://www.facebook.com/TimesTechies/videos/204638157936414).
 
 #### Open Source Opportunities  
 >> *Presented at a local meetup organized by Pyladies Hyderabad on Oct 31, 2020*
