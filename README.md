@@ -12,8 +12,8 @@ The talk was delivered with [Niharika Krishnan](https://github.com/niharikakrish
 
 The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional and how you can get started. Find slides [here](slides/Open-source-opportunities.pdf). Listen to the talk on YouTube [here](http://www.youtube.com/watch?v=sTtGJRHtLDM&t=48m3s).
 
-#### Open Source Contributions and Opportunities  
->> *Presented at Pyladies Experience Session during PyCon India 2020 on Oct 3, 2020*
+#### Make the Most out of Open Source  
+>> *Presented at Pyladies Experience Sharing Session during PyCon India 2020 on Oct 3, 2020*
 
 The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional. Find slides [here](slides/Open-source-opportunities.pdf).
 
