@@ -15,7 +15,7 @@ The talk covers personal experience with open source opportunities and importanc
 #### Make the Most out of Open Source  
 >> *Presented at Pyladies Experience Sharing Session during PyCon India 2020 on Oct 3, 2020*
 
-The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional. Find slides [here](slides/Open-source-opportunities.pdf).
+The talk covers personal experience with open source opportunities and importance of open source contributions as a student/professional. Find slides [here](slides/Open-source-opportunities.pdf) and watch the talk on [Youtube](https://www.youtube.com/watch?v=jglyp21W6ZE).
 
 #### Basics of git 
 >> *Presented at a local learning session organized by Invide Developer Community on July 2, 2020*
