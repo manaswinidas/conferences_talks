@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Open Source  
+>> *Presented during HashCode 2020 organized by PES University, Bangalore on Jan 23, 2021*
+
+The talk was delivered with Redhatters, [Rishiraj Anand](https://github.com/RishiRajAnand), [Parul Sharma](https://www.linkedin.com/in/parul-sharma-22076445/?originalSubdomain=in) and [Ajay Pratap](https://github.com/ajaypratap003) and covers an introduction to open source, opportunities for students and learning, how open source paves way for innovation, why companies open source their projects and its challenges.
+
 #### Careers in Python and Women Developer Ecosystem  
 >> *Presented at Times Techies webinar organized by Times of India on Dec 9, 2020*
 
