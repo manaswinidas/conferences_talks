@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### AMA on Open Source and importance of community
+>> *Presented on Feb 1, 2021*
+
+This session answers commonly asked questions on open source, communities etc. Find it on [Youtube](https://www.youtube.com/watch?v=valG8ymU_R0).
+
 #### Open Source  
 >> *Presented during HashCode 2020 organized by PES University, Bangalore on Jan 23, 2021*
 
