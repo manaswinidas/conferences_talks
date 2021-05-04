@@ -2,6 +2,10 @@
 
 ## Presentations added 
 
+#### Web Development Intermediate Course 
+>> *Conducted as a part of GirlScript Education Outreach Program from Apr 24 to May 1, 2021*
+
+This is a series of 1-2 hour sessions for a week and covers basics of frontend, backend and web for intermediate developers with tutorials and resources for projects and concepts. Find the detailed curriculum [here](slides/GS-Web-Dev-Intermediate/Curriculum.md).
 #### AMA on Open Source and importance of community
 >> *Presented on Feb 1, 2021*
 
