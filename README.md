@@ -2,6 +2,10 @@
 
 ## Presentations added 
 
+#### Demystifying use cases of REST, gRPC and GraphQL 
+>> *Presented as a part of Summit@Sites organized by Red Hat on May 20, 2021*
+
+This session covers API timelines, constraints, common myths and solutions, advantages, disadvantages and use cases for each of REST, GraphQL and gRPC to help solve the API developer's dilemma. Find the slides [here](slides/Demystifying-use-cases-REST-gRPC-GraphQL.pdf).
 #### Web Development Intermediate Course 
 >> *Conducted as a part of GirlScript Education Outreach Program(Batch-10) from Apr 24 to May 1, 2021*
 
