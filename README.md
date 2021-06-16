@@ -2,6 +2,10 @@
 
 ## Presentations added 
 
+#### Level up with GitHub actions, bots and CI/CD
+>> *Presented in Open Source Day organized by GirlCode on June 5, 2021*
+
+This session covers GitHub actions, bots and CI/CD with explanation and suitable resources to recreate the demos. Find the slides [here](slides/Level-up-with-GitHub-actions-bots-CI-CD.pdf) and the recording [here](https://www.girl-code.co.uk/community/events/open-source-day-event-recording).
 #### Demystifying use cases of REST, gRPC and GraphQL 
 >> *Presented as a part of Summit@Sites organized by Red Hat on May 20, 2021*
 
