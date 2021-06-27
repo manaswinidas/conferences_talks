@@ -2,6 +2,10 @@
 
 ## Presentations added 
 
+#### Make the most of open source
+>> *Presented in the Industrial Talk series organized by The Uplift Project on June 27, 2021*
+
+This session covers what, why and how about open source, including opportunities and what open source paves way for and why should we consider choosing the open source way. Find the slides [here](2021/Make-the-most-of-open-source.pdf).
 #### Level up with GitHub actions, bots and CI/CD
 >> *Presented in Open Source Day organized by GirlCode on June 5, 2021*
 
