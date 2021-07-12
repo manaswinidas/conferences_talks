@@ -2,6 +2,11 @@
 
 ## Presentations added 
 
+#### Introduction to open source
+>> *Presented in the Mentor Conference organized by ForeignAdmits on July 11, 2021*
+
+This session covers open source origins, what, why and how about open source, including opportunities and what open source paves way for and why should we consider choosing the open source way and tips about getting started. Find the slides [here](2021/Make-most-open-source-foreignadmits.pdf).
+
 #### Make the most of open source
 >> *Presented in the Industrial Talk series organized by The Uplift Project on June 27, 2021*
 
