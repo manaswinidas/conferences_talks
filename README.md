@@ -1,6 +1,16 @@
 # List of talks delivered in various conferences/meetups
 
-## Presentations added 
+## Presentations added
+
+#### Demystifying use cases of REST, gRPC and GraphQL 
+>> *Presented as a part of TechCast organized by Open Source Community, VIT on Aug 29, 2021*
+
+This session covers API timelines, constraints, common myths and solutions, advantages, disadvantages and use cases for each of REST, GraphQL and gRPC to help solve the API developer's dilemma. Find the slides [here](2021/Demystifying-use-cases-REST-gRPC-GraphQL.pdf). Find it on [Youtube](https://www.youtube.com/watch?v=kvMUNlqp44s).
+
+#### Blogging 101 
+>> *Presented internally at Red Hat on Aug 27, 2021*
+
+This session covers why, what and how about blogging, getting started and tips and tricks on selecting topics and overview and benefits about contributing content to community blogs. Slides coming soon.
 
 #### Introduction to open source
 >> *Presented in the Mentor Conference organized by ForeignAdmits on July 11, 2021*
