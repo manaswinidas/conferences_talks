@@ -2,6 +2,11 @@
 
 ## Presentations added
 
+#### Women in tech careers - Taking that extra leap
+>> *Presented at PyCon India 2021(Neurodiversity and D&I track) on Sep 19, 2021*
+
+This talk will cover different tech careers for women and tips and tricks on getting started as a student in the tech field, how to develop a learning attitude and how open source can aid in shaping your career and honing your skills. This talk will also additionally provide insights about off-campus job hunting and interview preparation. Find the slides [here](2021/Women-tech-careers-extra-leap.pdf). Recording link will be available soon.
+
 #### Demystifying use cases of REST, gRPC and GraphQL 
 >> *Presented as a part of TechCast organized by Open Source Community, VIT on Aug 29, 2021*
 
