@@ -12,12 +12,16 @@ Catch it live here: https://aws-shebuilds-summit-2021.splashthat.com/
 #### Dependency management using git
 >> *Presented at GitHub Universe on Oct 28, 2021*
 
-This talk will cover how git can aid in dependency management in-house by using submodules, subtrees, and subrepo. This talk will also review the caveats, differences, applications—for example, single-sourcing documentation and publishing the same documentation in various platforms such as wiki and gitbook—and other alternatives, like git repo and gitslave, that can help you achieve dependency management. Find the slides [here](2021/DependencyManagementUsingGit.pdf) and recording [here](https://githubuniverse.com/content-library/dependency-management-using-git/).
+This talk will cover how git can aid in dependency management in-house by using submodules, subtrees, and subrepo. This talk will also review the caveats, differences, applications—for example, single-sourcing documentation and publishing the same documentation in various platforms such as wiki and gitbook—and other alternatives, like git repo and gitslave, that can help you achieve dependency management. 
+
+Find the slides [here](2021/DependencyManagementUsingGit.pdf) and recording [here](https://githubuniverse.com/content-library/dependency-management-using-git/).
 
 #### Women in tech careers - Taking that extra leap
 >> *Presented at PyCon India 2021(Neurodiversity and D&I track) on Sep 19, 2021*
 
-This talk will cover different tech careers for women and tips and tricks on getting started as a student in the tech field, how to develop a learning attitude and how open source can aid in shaping your career and honing your skills. This talk will also additionally provide insights about off-campus job hunting and interview preparation. Find the slides [here](2021/Women-tech-careers-extra-leap.pdf). Recording link will be available soon.
+This talk will cover different tech careers for women and tips and tricks on getting started as a student in the tech field, how to develop a learning attitude and how open source can aid in shaping your career and honing your skills. This talk will also additionally provide insights about off-campus job hunting and interview preparation. 
+
+Find the slides [here](2021/Women-tech-careers-extra-leap.pdf). Recording link will be available soon.
 
 #### Demystifying use cases of REST, gRPC and GraphQL 
 >> *Presented as a part of TechCast organized by Open Source Community, VIT on Aug 29, 2021*
@@ -65,7 +69,9 @@ Find the detailed curriculum [here](2021/GS-Web-Dev-Intermediate/Curriculum.md).
 #### AMA on Open Source and importance of community
 >> *Presented on Feb 1, 2021*
 
-This session answers commonly asked questions on open source, communities etc. Find it on [Youtube](https://www.youtube.com/watch?v=valG8ymU_R0).
+This session answers commonly asked questions on open source, communities etc.
+
+Find it on [Youtube](https://www.youtube.com/watch?v=valG8ymU_R0).
 
 #### Open Source  
 >> *Presented during HashCode 2020 organized by PES University, Bangalore on Jan 23, 2021*
