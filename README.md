@@ -7,7 +7,7 @@
 
 GraphQL, the query language for graph databases, is gaining traction mainly due to its ease of use and how it addresses over-fetching and under-fetching. Every API architectural style has its own pros and cons, applications, and caveats. There is no use steering clear of one for a simple use case when you can incorporate it on your own in the existing style. While REST is preferred for applications involving CRUD, GraphQL is preferred for building composite APIs/microservices. This article will walk you through over-fetching and under-fetching without shifting to an entirely new architectural style like GraphQL. We can use sparse fieldsets or field grouping to handle over-fetching, and we can use compound documents for under-fetching.
 
-Catch it live here: https://aws-shebuilds-summit-2021.splashthat.com/
+Find the slides [here](2021/CaseforREST.pdf) and the recording [here](https://www.twitch.tv/videos/1209422721?t=502m26s).
 
 #### Dependency management using git
 >> *Presented at GitHub Universe on Oct 28, 2021*
