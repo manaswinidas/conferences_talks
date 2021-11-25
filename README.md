@@ -2,8 +2,14 @@
 
 ## Presentations added
 
+#### Speaking at conferences: from proposal writing to speaking
+>> *Presented internally at Red Hat on Nov 23, 2021*
+This talk includes tips and tricks along with examples for writing effective proposals and speaking at tech conferences.
+
+Find the slides [here](2021/Speaking_conferences_proposalwriting.pdf).
+
 #### The case for REST
->> *Coming soon as a part of AWS SheBuilds Summit on Nov 19, 2021*
+>> *Presented at AWS SheBuilds Summit on Nov 19, 2021*
 
 GraphQL, the query language for graph databases, is gaining traction mainly due to its ease of use and how it addresses over-fetching and under-fetching. Every API architectural style has its own pros and cons, applications, and caveats. There is no use steering clear of one for a simple use case when you can incorporate it on your own in the existing style. While REST is preferred for applications involving CRUD, GraphQL is preferred for building composite APIs/microservices. This article will walk you through over-fetching and under-fetching without shifting to an entirely new architectural style like GraphQL. We can use sparse fieldsets or field grouping to handle over-fetching, and we can use compound documents for under-fetching.
 
