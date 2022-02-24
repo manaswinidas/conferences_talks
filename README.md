@@ -2,6 +2,12 @@
 
 ## Presentations added
 
+#### Interview tips
+>> *Presented internally at Red Hat on Nov 28, 2021*
+This talk includes tips and tricks about preparing for and cracking interviews.
+
+Find the slides [here](2021/Interview-tips.pdf).
+
 #### Speaking at conferences: from proposal writing to speaking
 >> *Presented internally at Red Hat on Nov 23, 2021*
 This talk includes tips and tricks along with examples for writing effective proposals and speaking at tech conferences.
