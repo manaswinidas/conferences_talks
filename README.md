@@ -2,8 +2,15 @@
 
 ## Presentations added
 
+#### Demystifying use cases of REST, gRPC and GraphQL 
+>> *Presented as a lightning talk in Devconf.cz organized by Red Hat on Jan 28, 2022*
+
+This session covers advantages, disadvantages and use cases for each of REST, GraphQL and gRPC to help solve the API developer's dilemma. 
+
+Find the slides [here](2022/Demystifying-use-cases-REST-gRPC-GraphQL-Devconf.pdf) and the reording [here](https://www.youtube.com/watch?v=1OEPXxt62GE&list=PLAzCkRsKko5vp1pQZqrcSIP7SWAPlfeRa&index=10).
+
 #### Interview tips
->> *Presented internally at Red Hat on Nov 28, 2021*
+>> *Presented at a community event on Nov 28, 2021*
 This talk includes tips and tricks about preparing for and cracking interviews.
 
 Find the slides [here](2021/Interview-tips.pdf).
