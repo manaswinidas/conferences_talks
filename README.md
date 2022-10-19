@@ -2,6 +2,27 @@
 
 ## Presentations added
 
+#### Open source and Red Hat 
+>> *Presented during a students' industrial visit at Red Hat Bangalore office on Oct 12, 2022*
+
+This session covers all opportunities open source has for students and how one can get started with open source and how Red Hat supports open source. 
+
+Find the slides [here](2022/Open-source-opportunities-Red-Hat.pdf).
+
+#### Blogging 101 
+>> *Presented internally at Red Hat on Aug 24, 2022*
+
+This session covers all things required to get started with blogging, including the do's and don'ts, creating an outline, zeroing in on a topic. 
+
+Find the slides [here](2022/Blogging101.pdf).
+
+#### CFP abstract guide
+>> *Presented internally at Red Hat on Apr 13, 2022*
+
+This session covers all things required to write an abstract for a conference. 
+
+Find the slides [here](2022/CFP-abstract-guide.pdf).
+
 #### Gender parity 
 >> *Presented in Striving Sheroes Webinar organized by ISTE, VIT on March 17, 2022*
 
