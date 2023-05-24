@@ -1,57 +1,23 @@
-# List of talks delivered in various conferences/meetups
+# List of talks delivered in various conferences/meetups in 2023
 
 ## Presentations added
 
-#### Open source and Red Hat 
->> *Presented during a students' industrial visit at Red Hat Bangalore office on Oct 12, 2022*
+#### Hackathons: What? Why? and How?
 
-This session covers all opportunities open source has for students and how one can get started with open source and how Red Hat supports open source. 
+> > _Presented during Flow hackathon at IIIT Bangalore on Feb 24, 2023_
 
-Find the slides [here](2022/Open-source-opportunities-Red-Hat.pdf).
+This session covers various types of hackathons and how you can make the most of it as a student and/or a professional.
 
-#### Blogging 101 
->> *Presented internally at Red Hat on Aug 24, 2022*
-
-This session covers all things required to get started with blogging, including the do's and don'ts, creating an outline, zeroing in on a topic. 
-
-Find the slides [here](2022/Blogging101.pdf).
-
-#### CFP abstract guide
->> *Presented internally at Red Hat on Apr 13, 2022*
-
-This session covers all things required to write an abstract for a conference. 
-
-Find the slides [here](2022/CFP-abstract-guide.pdf).
-
-#### Gender parity 
->> *Presented in Striving Sheroes Webinar organized by ISTE, VIT on March 17, 2022*
-
-This session talks about the importance of gender-equitable data processing systems, as well as gender parity in STEM. 
-
-Find the slides [here](2022/Gender-parity-Striving-Sheroes.pdf) and the recording [here](https://www.youtube.com/watch?v=4urUEFHSvyA).
-
-#### Open source
->> *Presented as a part of GirlScript Summer of Code 2022 Opening Ceremony organized by GirlScript Foundation on March 1, 2022*
-
-This session answers commonly asked questions about getting started with open source and importance of open source. 
-
-Find the recording [here](https://www.youtube.com/watch?v=kNcNKH1kCIM).
-
-#### Demystifying use cases of REST, gRPC and GraphQL 
->> *Presented as a lightning talk in Devconf.cz organized by Red Hat on Jan 28, 2022*
-
-This session covers advantages, disadvantages and use cases for each of REST, GraphQL and gRPC to help solve the API developer's dilemma. 
-
-Find the slides [here](2022/Demystifying-use-cases-REST-gRPC-GraphQL-Devconf.pdf) and the recording [here](https://www.youtube.com/watch?v=1OEPXxt62GE&list=PLAzCkRsKko5vp1pQZqrcSIP7SWAPlfeRa&index=10).
-
+Find the slides [here](2023/Hackathons-What-Why-How.pdf).
 
 ## Older presentations
 
 Find the details of older presentations yearwise.
+\
+[2022](2022)
 \
 [2021](2021)
 \
 [2020](2020)
 \
 [2019](2019)
-
