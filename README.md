@@ -1,6 +1,22 @@
 # List of talks delivered in various conferences/meetups in 2023
 
-## Presentations added
+## Presentations/podcasts/courses added
+
+#### LinkedIn Learning course titled "Git Dependency Management with Submodules and Subtrees"
+
+> > _Published on Jul 10, 2023_
+
+This course explains how Git submodules and subtrees can help you with in-house dependency management. This course also reviews the caveats, differences, and applications—for example, single-sourcing documentation and publishing documentation on various platforms and other alternatives.
+
+[Link to the LinkedIn Learning course](https://www.linkedin.com/learning/git-dependency-management-with-submodules-and-subtrees/git-submodules-and-subtrees)
+
+#### Podcast on Women in Tech
+
+> > _Published on Coffee with the UI girl podcast(Spotify) on Jun 30, 2023_
+
+I was invited as a guest in this podcast to answer questions about women in tech and open source opportunities at large.
+
+[Check it out](https://tinyurl.com/muzeemrr)
 
 #### Hackathons: What? Why? and How?
 
