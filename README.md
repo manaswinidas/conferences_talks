@@ -2,6 +2,21 @@
 
 ## Presentations/podcasts/courses added
 
+#### Formal and informal communication
+
+> > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Aug 6, 2023_
+
+[Link to slides](2023/FormalInformalCommunication.pdf)
+
+Agenda:
+
+- Formal and informal communication - introduction
+- Characteristics of both
+- Advantages of both
+- Proper use of both
+- Balancing formal and informal communication
+- Real-life examples
+
 #### LinkedIn Learning course titled "Git Dependency Management with Submodules and Subtrees"
 
 > > _Published on Jul 10, 2023_
