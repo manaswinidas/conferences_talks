@@ -2,6 +2,14 @@
 
 ## Presentations/podcasts/courses added
 
+#### Employabilty Skills
+
+> > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Sep 10, 2023_
+
+[Link to slides](2023/Employability-Skills.pdf)
+
+This talk briefly covers the importance of employability skills, the various skills(e.g. communication, leadership, teamwork, critical thinking etc.) that someone needs to master to be at the top of their game and take charge of their career.
+
 #### Formal and informal communication
 
 > > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Aug 6, 2023_
