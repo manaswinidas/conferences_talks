@@ -4,7 +4,7 @@
 
 #### Panel discussion titled Women in Tech
 
-> > _Served as a panelist released as a podcast/video on Nov 17, 2023_
+> > _Served as a panelist for a podcast/video on Coffee with the UI girl -- released as a podcast/video on Nov 17, 2023_
 
 This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain), [Nancy Chauhan](https://github.com/Nancy-Chauhan) and [Farozan Farman](https://github.com/FarozanFarman) on topics ranging from challenges, triumphs, thriving in the tech world and questions we have to answer as women in tech. This podcast/video also shares some personal stories, busts myths and highlights how we cope with different situations like bias and deal with people.
 
@@ -12,7 +12,7 @@ Check out the podcast [here](https://open.spotify.com/episode/3MASyaM4a78IabO2ms
 
 #### Podcast titled Passion for Tech
 
-> > _Served as a host for the podcast released on Oct 21, 2023_
+> > _Served as a host for the Coffee with the UI girl podcast released on Oct 21, 2023_
 
 This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain) and briefly provides tips and tricks around time management, juggling work and travel, content creation, tips for maintaining good mental health and importance of continuous learning.
 
