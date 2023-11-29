@@ -2,6 +2,22 @@
 
 ## Presentations/podcasts/courses added
 
+#### Panel discussion titled Women in Tech
+
+> > _Served as a panelist released as a podcast/video on Nov 17, 2023_
+
+This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain), [Nancy Chauhan](https://github.com/Nancy-Chauhan) and [Farozan Farman](https://github.com/FarozanFarman) on topics ranging from challenges, triumphs, thriving in the tech world and questions we have to answer as women in tech. This podcast/video also shares some personal stories, busts myths and highlights how we cope with different situations like bias and deal with people.
+
+Check out the podcast [here](https://open.spotify.com/episode/3MASyaM4a78IabO2msWDno). There is a [video on YouTube](https://www.youtube.com/watch?v=vCRgL-h8cjs&t=12s) too.
+
+#### Podcast titled Passion for Tech
+
+> > _Served as a host for the podcast released on Oct 21, 2023_
+
+This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain) and briefly provides tips and tricks around time management, juggling work and travel, content creation, tips for maintaining good mental health and importance of continuous learning.
+
+Check out the podcast [here](https://open.spotify.com/episode/7173kGTUMOnZ7MlIzRAfNm).
+
 #### Employabilty Skills
 
 > > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Sep 10, 2023_
