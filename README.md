@@ -1,78 +1,43 @@
-# List of talks delivered in various conferences/meetups in 2023
+# List of talks delivered in various conferences/meetups in 2024
 
-## Presentations/podcasts/courses added
+## Presentations/courses added
 
-#### Panel discussion titled Women in Tech
+#### LinkedIn Learning course titled "Building GitHub bots"
 
-> > _Served as a panelist for a podcast/video on Coffee with the UI girl -- released as a podcast/video on Nov 17, 2023_
+> > _Published on Aug 8, 2024_
 
-This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain), [Nancy Chauhan](https://github.com/Nancy-Chauhan) and [Farozan Farman](https://github.com/FarozanFarman) on topics ranging from challenges, triumphs, thriving in the tech world and questions we have to answer as women in tech. This podcast/video also shares some personal stories, busts myths and highlights how we cope with different situations like bias and deal with people.
+This course explains how you can leverage GitHub bots to automate maintainer/community tasks on a GitHub repository. This course also provides demo and assistance to build and deploy GitHub bots using Python and Probot.
 
-Check out the podcast [here](https://open.spotify.com/episode/3MASyaM4a78IabO2msWDno). There is a [video on YouTube](https://www.youtube.com/watch?v=vCRgL-h8cjs&t=12s) too.
+[Link to the LinkedIn Learning course](https://www.linkedin.com/learning/building-github-bots).
 
-#### Podcast titled Passion for Tech
+#### Mastering Debating skills
 
-> > _Served as a host for the Coffee with the UI girl podcast released on Oct 21, 2023_
+> > _Presented online to girls from Madurai and Mangalore under HopeWorks Foundation on Jul 14,2024_
 
-This podcast is a candid conversation with the host of the podcast, [Anisha Swain](https://github.com/anishaswain) and briefly provides tips and tricks around time management, juggling work and travel, content creation, tips for maintaining good mental health and importance of continuous learning.
+This session covers essential elements, techniques and applications of debating skills in day-to-day life.
 
-Check out the podcast [here](https://open.spotify.com/episode/7173kGTUMOnZ7MlIzRAfNm).
+Find the slides [here](2024/Mastering-Debating-Skills.pdf).
 
-#### Employabilty Skills
+#### More public speaking methods and exercises
 
-> > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Sep 10, 2023_
+> > _Presented online to girls from Madurai and Mangalore under HopeWorks Foundation on Jun 16,2024_
 
-[Link to slides](2023/Employability-Skills.pdf)
+This session is part 3 of a 3-part session on public speaking. This part covers more methods to manage stage fright like breathing, tongue twisters, and exercises to improve public speaking skills to practice.
 
-This talk briefly covers the importance of employability skills, the various skills(e.g. communication, leadership, teamwork, critical thinking etc.) that someone needs to master to be at the top of their game and take charge of their career.
+Find the slides [here](2024/More-public-speaking-methods_exercises.pdf).
 
-#### Formal and informal communication
+#### Public speaking methods
 
-> > _Delivered in person at St. John's Medical College and Hospital on behalf of HopeWorks Foundation on Aug 6, 2023_
+> > _Presented online to girls from Madurai and Mangalore under HopeWorks Foundation on Jun 9,2024_
 
-[Link to slides](2023/FormalInformalCommunication.pdf)
+This session is part 2 of a 3-part session on public speaking. This part covers techniques and activities to improve pronunciation, body language, ways to avoid fillers and describing pictures to get better at talking.
 
-Agenda:
+Find the slides [here](2024/Public-speaking-methods.pdf).
 
-- Formal and informal communication - introduction
-- Characteristics of both
-- Advantages of both
-- Proper use of both
-- Balancing formal and informal communication
-- Real-life examples
+#### Mastering the art of public speaking
 
-#### LinkedIn Learning course titled "Git Dependency Management with Submodules and Subtrees"
+> > _Presented online to girls from Madurai and Mangalore under HopeWorks Foundation on Jun 2,2024_
 
-> > _Published on Jul 10, 2023_
+This session is part 1 of a 3-part session on public speaking. This part gives an overview on public speaking, how to craft a compelling presentation and ways to overcome public speaking anxiety.
 
-This course explains how Git submodules and subtrees can help you with in-house dependency management. This course also reviews the caveats, differences, and applications—for example, single-sourcing documentation and publishing documentation on various platforms and other alternatives.
-
-[Link to the LinkedIn Learning course](https://www.linkedin.com/learning/git-dependency-management-with-submodules-and-subtrees/git-submodules-and-subtrees)
-
-#### Podcast on Women in Tech
-
-> > _Published on Coffee with the UI girl podcast(Spotify) on Jun 30, 2023_
-
-I was invited as a guest in this podcast to answer questions about women in tech and open source opportunities at large.
-
-[Check it out](https://tinyurl.com/muzeemrr)
-
-#### Hackathons: What? Why? and How?
-
-> > _Presented during Flow hackathon at IIIT Bangalore on Feb 24, 2023_
-
-This session covers various types of hackathons and how you can make the most of it as a student and/or a professional.
-
-Find the slides [here](2023/Hackathons-What-Why-How.pdf).
-
-## Older presentations
-
-Find the details of older presentations yearwise.
-\
-[2022](2022)
-\
-[2021](2021)
-\
-[2020](2020)
-\
-[2019](2019)
+Find the slides [here](2024/Mastering-art-public-speaking.pdf).
